@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\include",
+    "\\include\\KHR",
+    "\\lib"
   ],
+  "SelectedNode": "\\include\\glad",
   "PreviewInSolutionExplorer": false
 }
