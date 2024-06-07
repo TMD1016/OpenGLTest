@@ -1,0 +1,4 @@
+CSDN教程：https://blog.csdn.net/weixin_43347688/article/details/125668383
+ＧＬＦＷ　：https://www.glfw.org/download.html
+ＧＬＡＤ：https://glad.dav1d.de/
+CMAKe : https://cmake.org/download/

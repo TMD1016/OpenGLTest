@@ -1,0 +1,10 @@
+^D:\GITDEMO\OPENGLTEST\GLFW-3.4-BUILD\CMAKEFILES\7879B093F219EC92F48FDBB1FEDAE932\GENERATE.STAMP.RULE
+setlocal
+D:\SoftInstallPath\cmake\bin\cmake.exe -SD:/GitDemo/OpenGLTest/glfw-3.4 -BD:/GitDemo/OpenGLTest/glfw-3.4-build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GitDemo/OpenGLTest/glfw-3.4-build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

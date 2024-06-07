@@ -1,0 +1,4 @@
+# ninja log v5
+0	291	7394323594992002	CMakeFiles/OpenGL.dir/src/glad.c.obj	6339a06f817fc80c
+3	338	7394323595482365	CMakeFiles/OpenGL.dir/OpenGL.cpp.obj	fe50cfcf06a0fe3b
+339	1023	7394323601183479	bin/OpenGL.exe	1b95c21820bb3bcb

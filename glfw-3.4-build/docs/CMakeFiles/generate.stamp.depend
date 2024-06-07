@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/GitDemo/OpenGLTest/glfw-3.4/docs/CMakeLists.txt
+D:/SoftInstallPath/cmake/share/cmake-3.30/Modules/FindDoxygen.cmake
+D:/SoftInstallPath/cmake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+D:/SoftInstallPath/cmake/share/cmake-3.30/Modules/FindPackageMessage.cmake
